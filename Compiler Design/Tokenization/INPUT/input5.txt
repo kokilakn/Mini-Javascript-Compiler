@@ -1,0 +1,6 @@
+var j=true;
+for (i = 0; i < 10; i++) {
+  	text += "cars" + "<br>";
+}
+
+console.log(i);

@@ -1,0 +1,11 @@
+mov a 10
+mov b 15
+t4 = a == 10
+iftrue t4 goto l0
+goto l1
+label l0
+mov b 100
+goto l2
+label l1
+mov a 100
+label l2

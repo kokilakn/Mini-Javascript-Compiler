@@ -1,0 +1,20 @@
+mov t0 5
+mov n t0
+mov t1 0
+mov i t1
+mov t2 0
+mov a t2
+mov t3 15
+mov t4 20
+t5 = t3 + t4
+mov m t5
+mov t6 10
+mov k t6
+mov t7 87
+mov grade t7
+mov t8 0
+mov j t8
+mov t9 15
+mov t10 20
+t11 = t9 + t10
+mov n t11

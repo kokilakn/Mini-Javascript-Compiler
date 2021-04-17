@@ -1,0 +1,9 @@
+// single line comment
+/*
+Multi line comment
+*/
+
+// if else
+a=0;
+b=0;
+x=10

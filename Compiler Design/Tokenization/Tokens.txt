@@ -1,0 +1,6773 @@
+Type : var
+Identifer : hour
+Equals : =
+Number : 20
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : hour
+Equality : <
+Number : 18
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Good Morning"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : else
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Good Evening"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Identifer : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : i
+Colon : ;
+Identifer : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Close Brackets : }
+Type : var
+Identifer : hour
+Equals : =
+Number : 20
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : hour
+Equality : <
+Number : 18
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Good Morning"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : else
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Good Evening"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : hour
+Equals : =
+Number : 20
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : hour
+Equality : <
+Number : 18
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Good Morning"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : else
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Good Evening"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Comma : ,
+Identifer : cars
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Type : var
+Identifer : i
+Comma : ,
+Identifer : cars
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Type : var
+Identifer : i
+Comma : ,
+Identifer : cars
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+Identifer : cars
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Comma : ,
+Identifer : cars
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : j
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : j
+Equals : =
+String : "sbjhvbjh"
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : j
+Equals : =
+Identifer : true
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : j
+Equals : =
+Identifer : true
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Print : console.log
+Open Brackets : (
+Identifer : j
+Type : var
+Identifer : j
+Equals : =
+Identifer : true
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Print : console.log
+Open Brackets : (
+Identifer : i
+Type : var
+Identifer : j
+Equals : =
+Identifer : true
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Print : console.log
+Open Brackets : (
+String : 'i'
+Close Brackets : )
+Type : var
+Identifer : j
+Equals : =
+Identifer : true
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Print : console.log
+Open Brackets : (
+String : 'i'
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Identifer : true
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Print : console.log
+Open Brackets : (
+Identifer : i
+Type : var
+Identifer : j
+Equals : =
+Identifer : true
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Print : document.write
+Open Brackets : (
+Identifer : i
+Type : var
+Identifer : j
+Equals : =
+Identifer : true
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Print : document.write
+Open Brackets : (
+String : 'i'
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Identifer : true
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Print : document.write
+Open Brackets : (
+String : 'i'
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : hour
+Equals : =
+Number : 20
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : hour
+Equality : <
+Number : 18
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Good Morning"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : else
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Good Evening"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : j
+Equals : =
+Identifer : true
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Print : console.log
+Open Brackets : (
+Identifer : i
+Type : var
+Identifer : j
+Equals : =
+Identifer : true
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Print : console.log
+Open Brackets : (
+Identifer : i
+Type : var
+Identifer : j
+Equals : =
+Identifer : true
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Print : console.log
+Open Brackets : (
+Identifer : i
+Type : var
+Identifer : j
+Equals : =
+Identifer : true
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Print : console.log
+Open Brackets : (
+String : 'i'
+Close Brackets : )
+Type : var
+Identifer : j
+Equals : =
+Identifer : true
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Print : console.log
+Open Brackets : (
+String : 'i'
+Close Brackets : )
+Type : var
+Identifer : j
+Equals : =
+Identifer : true
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Print : console.log
+Open Brackets : (
+String : "i"
+Close Brackets : )
+Type : var
+Identifer : j
+Equals : =
+Identifer : true
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Print : console.log
+Open Brackets : (
+String : 'i'
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Identifer : true
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Print : console.log
+Open Brackets : (
+String : 'i'
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Identifer : true
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : a
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "The number is "
+Op1 : +
+Identifer : i
+Colon : ;
+Identifer : i
+Op4 : ++
+Colon : ;
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Type : var
+Type : var
+Identifer : a
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "The number is "
+Op1 : +
+Identifer : i
+Colon : ;
+Identifer : i
+Op4 : ++
+Colon : ;
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Type : var
+Type : var
+Identifer : a
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "Keep "
+Op1 : +
+String : "looping"
+Colon : ;
+Identifer : i
+Op4 : ++
+Colon : ;
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Type : var
+Type : var
+Identifer : a
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "Keep "
+Op1 : +
+String : "looping"
+Colon : ;
+Identifer : i
+Equals : =
+Identifer : i
+Op1 : +
+Number : 1
+Colon : ;
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Type : var
+Type : var
+Identifer : a
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "Keep "
+Op1 : +
+String : "looping"
+Colon : ;
+Identifer : i
+Equals : =
+Number : 5
+Colon : ;
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Type : var
+Type : var
+Identifer : a
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Identifer : Document
+Dot : .
+Identifer : write
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Identifer : Document
+Dot : .
+Identifer : write
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : kd
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : grade
+Equals : =
+Number : 80
+Colon : ;
+Keyword : for
+Open Brackets : (
+Colon : ;
+Type : var
+Identifer : a
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Type : var
+Type : var
+Identifer : a
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Identifer : Document
+Dot : .
+Identifer : write
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Identifer : Document
+Dot : .
+Identifer : write
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : kd
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : grade
+Equals : =
+Number : 80
+Colon : ;
+Keyword : for
+Open Brackets : (
+Colon : ;
+Type : var
+Identifer : a
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+Identifer : i
+Type : var
+Identifer : a
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+Identifer : i
+Type : var
+Identifer : a
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+Identifer : i
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "The number is "
+Op1 : +
+Identifer : i
+Colon : ;
+Identifer : i
+Op4 : ++
+Colon : ;
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "The number is "
+Op1 : +
+Identifer : i
+Colon : ;
+Identifer : i
+Op4 : ++
+Colon : ;
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "The number is "
+Op1 : +
+Identifer : i
+Colon : ;
+Identifer : i
+Op4 : ++
+Colon : ;
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Type : var
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "The number is "
+Op1 : +
+Identifer : i
+Colon : ;
+Identifer : i
+Op4 : ++
+Colon : ;
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Type : var
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "The number is "
+Op1 : +
+Identifer : i
+Colon : ;
+Identifer : i
+Op4 : ++
+Colon : ;
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Type : var
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "The number is "
+Op1 : +
+Identifer : i
+Colon : ;
+Identifer : i
+Op4 : ++
+Colon : ;
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Type : var
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "The number is "
+Op1 : +
+Identifer : i
+Colon : ;
+Identifer : i
+Op4 : ++
+Colon : ;
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Print : console.log
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "The number is "
+Op1 : +
+Identifer : i
+Colon : ;
+Identifer : i
+Op4 : ++
+Colon : ;
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "The number is "
+Op1 : +
+Identifer : i
+Colon : ;
+Identifer : i
+Op4 : ++
+Colon : ;
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Print : console.log
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "The number is "
+Op1 : +
+Identifer : i
+Colon : ;
+Identifer : i
+Op4 : ++
+Colon : ;
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "The number is "
+Op1 : +
+Identifer : i
+Colon : ;
+Identifer : i
+Op4 : ++
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : a
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "The number is "
+Op1 : +
+Identifer : i
+Colon : ;
+Identifer : i
+Op4 : ++
+Colon : ;
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Type : var
+Type : var
+Identifer : a
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "The number is "
+Op1 : +
+Identifer : i
+Colon : ;
+Identifer : i
+Op4 : ++
+Colon : ;
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Type : var
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "The number is "
+Op1 : +
+Identifer : i
+Colon : ;
+Identifer : i
+Op4 : ++
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "The number is "
+Op1 : +
+Identifer : i
+Colon : ;
+Identifer : i
+Op4 : ++
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Type : var
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "The number is "
+Op1 : +
+Identifer : i
+Colon : ;
+Identifer : i
+Op4 : ++
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : a
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : a
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : kd
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : grade
+Equals : =
+Number : 80
+Colon : ;
+Keyword : for
+Open Brackets : (
+Colon : ;
+Type : var
+Identifer : a
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Keyword : let
+Identifer : x
+Equals : =
+Number : 100
+Colon : ;
+Type : var
+Identifer : d
+Equals : =
+String : "PESU"
+Colon : ;
+Type : var
+Identifer : count
+Equals : =
+Number : 0
+Colon : ;
+Identifer : count
+Equals : =
+Identifer : count
+Op1 : +
+Number : 1
+Colon : ;
+Identifer : count
+ShortHand : +=
+Number : 1
+Colon : ;
+Identifer : count
+Op4 : ++
+Colon : ;
+Identifer : count
+Op3 : **
+Number : 3
+Colon : ;
+Identifer : count
+Op4 : --
+Colon : ;
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : a
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Keyword : let
+Identifer : x
+Equals : =
+Number : 100
+Colon : ;
+Type : var
+Identifer : d
+Equals : =
+String : "PESU"
+Colon : ;
+Type : var
+Identifer : count
+Equals : =
+Number : 0
+Colon : ;
+Identifer : count
+Equals : =
+Identifer : count
+Op1 : +
+Number : 1
+Colon : ;
+Identifer : count
+ShortHand : +=
+Number : 1
+Colon : ;
+Identifer : count
+Op4 : ++
+Colon : ;
+Identifer : count
+Op3 : **
+Number : 3
+Colon : ;
+Identifer : count
+Op4 : --
+Colon : ;
+Type : var
+Identifer : a
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Keyword : let
+Identifer : x
+Equals : =
+Number : 100
+Colon : ;
+Type : var
+Identifer : d
+Equals : =
+String : "PESU"
+Colon : ;
+Type : var
+Identifer : count
+Equals : =
+Number : 0
+Colon : ;
+Identifer : count
+Equals : =
+Identifer : count
+Op1 : +
+Number : 1
+Colon : ;
+Identifer : count
+ShortHand : +=
+Number : 1
+Colon : ;
+Identifer : count
+Op4 : ++
+Colon : ;
+Identifer : count
+Op3 : **
+Number : 3
+Colon : ;
+Identifer : count
+Op4 : --
+Colon : ;
+Type : var
+Identifer : a
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Keyword : let
+Identifer : x
+Equals : =
+Number : 100
+Colon : ;
+Type : var
+Identifer : d
+Equals : =
+String : "PESU"
+Colon : ;
+Type : var
+Identifer : count
+Equals : =
+Number : 0
+Colon : ;
+Identifer : count
+Equals : =
+Identifer : count
+Op1 : +
+Number : 1
+Colon : ;
+Identifer : count
+ShortHand : +=
+Number : 1
+Colon : ;
+Identifer : count
+Op4 : ++
+Colon : ;
+Identifer : count
+Op3 : **
+Number : 3
+Colon : ;
+Type : var
+Identifer : a
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Keyword : let
+Identifer : x
+Equals : =
+Number : 100
+Colon : ;
+Type : var
+Identifer : d
+Equals : =
+String : "PESU"
+Colon : ;
+Type : var
+Identifer : count
+Equals : =
+Number : 0
+Colon : ;
+Identifer : count
+Equals : =
+Identifer : count
+Op1 : +
+Number : 1
+Colon : ;
+Identifer : count
+ShortHand : +=
+Number : 1
+Colon : ;
+Identifer : count
+Op4 : ++
+Colon : ;
+Identifer : count
+Op3 : **
+Number : 3
+Colon : ;
+Type : var
+Identifer : a
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : a
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : a
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Keyword : let
+Identifer : x
+Equals : =
+Number : 100
+Colon : ;
+Type : var
+Identifer : d
+Equals : =
+String : "PESU"
+Colon : ;
+Type : var
+Identifer : count
+Equals : =
+Number : 0
+Colon : ;
+Identifer : count
+Equals : =
+Identifer : count
+Op1 : +
+Number : 1
+Colon : ;
+Identifer : count
+ShortHand : +=
+Number : 1
+Colon : ;
+Identifer : count
+Op4 : ++
+Colon : ;
+Identifer : count
+Op3 : **
+Number : 3
+Colon : ;
+Type : var
+Identifer : a
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Keyword : let
+Identifer : x
+Equals : =
+Number : 100
+Colon : ;
+Type : var
+Identifer : d
+Equals : =
+String : "PESU"
+Colon : ;
+Type : var
+Identifer : count
+Equals : =
+Number : 0
+Colon : ;
+Identifer : count
+Equals : =
+Identifer : count
+Op1 : +
+Number : 1
+Colon : ;
+Identifer : count
+ShortHand : +=
+Number : 1
+Colon : ;
+Identifer : count
+Op4 : ++
+Colon : ;
+Identifer : count
+Op3 : **
+Number : 3
+Colon : ;
+Type : var
+Identifer : a
+Colon : ;
+Type : var
+Identifer : b
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Keyword : let
+Identifer : x
+Equals : =
+Number : 100
+Colon : ;
+Type : var
+Identifer : d
+Equals : =
+String : "PESU"
+Colon : ;
+Type : var
+Identifer : count
+Equals : =
+Number : 0
+Colon : ;
+Identifer : count
+Equals : =
+Identifer : count
+Op1 : +
+Number : 1
+Colon : ;
+Identifer : count
+ShortHand : +=
+Number : 1
+Colon : ;
+Identifer : count
+Op4 : ++
+Colon : ;
+Identifer : count
+Op3 : **
+Number : 3
+Colon : ;
+Type : var
+Identifer : a
+Colon : ;
+Type : var
+Identifer : b
+Colon : ;
+Type : var
+Identifer : x
+Equals : =
+Number : 10
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Keyword : let
+Identifer : x
+Equals : =
+Number : 100
+Colon : ;
+Type : var
+Identifer : d
+Equals : =
+String : "PESU"
+Colon : ;
+Type : var
+Identifer : count
+Equals : =
+Number : 0
+Colon : ;
+Identifer : count
+Equals : =
+Identifer : count
+Op1 : +
+Number : 1
+Colon : ;
+Identifer : count
+ShortHand : +=
+Number : 1
+Colon : ;
+Identifer : count
+Op4 : ++
+Colon : ;
+Identifer : count
+Op3 : **
+Number : 3
+Colon : ;
+Type : var
+Identifer : a
+Colon : ;
+Type : var
+Identifer : b
+Colon : ;
+Type : var
+Identifer : x
+Equals : =
+Number : 10
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Keyword : let
+Identifer : x
+Equals : =
+Number : 100
+Colon : ;
+Type : var
+Identifer : d
+Equals : =
+String : "PESU"
+Colon : ;
+Type : var
+Identifer : count
+Equals : =
+Number : 0
+Colon : ;
+Identifer : count
+Equals : =
+Identifer : count
+Op1 : +
+Number : 1
+Colon : ;
+Identifer : count
+ShortHand : +=
+Number : 1
+Colon : ;
+Identifer : count
+Op4 : ++
+Colon : ;
+Identifer : count
+Op3 : **
+Number : 3
+Colon : ;
+Type : var
+Identifer : a
+Colon : ;
+Type : var
+Identifer : b
+Colon : ;
+Type : var
+Identifer : x
+Equals : =
+Number : 10
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Keyword : let
+Identifer : x
+Equals : =
+Number : 100
+Colon : ;
+Type : var
+Identifer : d
+Equals : =
+String : "PESU"
+Colon : ;
+Type : var
+Identifer : count
+Equals : =
+Number : 0
+Colon : ;
+Identifer : count
+Equals : =
+Identifer : count
+Op1 : +
+Number : 1
+Colon : ;
+Identifer : count
+ShortHand : +=
+Number : 1
+Colon : ;
+Identifer : count
+Op4 : ++
+Colon : ;
+Identifer : count
+Op3 : **
+Number : 3
+Colon : ;
+Type : var
+Identifer : a
+Colon : ;
+Type : var
+Identifer : b
+Colon : ;
+Type : var
+Identifer : x
+Equals : =
+Number : 10
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Keyword : let
+Identifer : x
+Equals : =
+Number : 100
+Colon : ;
+Type : var
+Identifer : d
+Equals : =
+String : "PESU"
+Colon : ;
+Type : var
+Identifer : count
+Equals : =
+Number : 0
+Colon : ;
+Identifer : count
+Equals : =
+Identifer : count
+Op1 : +
+Number : 1
+Colon : ;
+Identifer : count
+ShortHand : +=
+Number : 1
+Colon : ;
+Identifer : count
+Op4 : ++
+Colon : ;
+Identifer : count
+Op3 : **
+Number : 3
+Colon : ;
+Type : var
+Identifer : a
+Colon : ;
+Type : var
+Identifer : b
+Colon : ;
+Type : var
+Identifer : x
+Equals : =
+Number : 10
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Keyword : let
+Identifer : x
+Equals : =
+Number : 100
+Colon : ;
+Type : var
+Identifer : d
+Equals : =
+String : "PESU"
+Colon : ;
+Type : var
+Identifer : count
+Equals : =
+Number : 0
+Colon : ;
+Identifer : count
+Equals : =
+Identifer : count
+Op1 : +
+Number : 1
+Colon : ;
+Identifer : count
+ShortHand : +=
+Number : 1
+Colon : ;
+Identifer : count
+Op4 : ++
+Colon : ;
+Identifer : count
+Op3 : **
+Number : 3
+Colon : ;
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : a
+Colon : ;
+Type : var
+Identifer : b
+Colon : ;
+Type : var
+Identifer : x
+Equals : =
+Number : 10
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Keyword : let
+Identifer : x
+Equals : =
+Number : 100
+Colon : ;
+Type : var
+Identifer : d
+Equals : =
+String : "PESU"
+Colon : ;
+Type : var
+Identifer : count
+Equals : =
+Number : 0
+Colon : ;
+Identifer : count
+Equals : =
+Identifer : count
+Op1 : +
+Number : 1
+Colon : ;
+Identifer : count
+ShortHand : +=
+Number : 1
+Colon : ;
+Identifer : count
+Op4 : ++
+Colon : ;
+Identifer : count
+Op3 : **
+Number : 3
+Colon : ;
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Identifer : text
+Equals : =
+String : "keep "
+Op1 : +
+String : "looping"
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : a
+Colon : ;
+Type : var
+Identifer : b
+Colon : ;
+Type : var
+Identifer : x
+Equals : =
+Number : 10
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Keyword : let
+Identifer : x
+Equals : =
+Number : 100
+Colon : ;
+Type : var
+Identifer : d
+Equals : =
+String : "PESU"
+Colon : ;
+Type : var
+Identifer : count
+Equals : =
+Number : 0
+Colon : ;
+Identifer : count
+Equals : =
+Identifer : count
+Op1 : +
+Number : 1
+Colon : ;
+Identifer : count
+ShortHand : +=
+Number : 1
+Colon : ;
+Identifer : count
+Op4 : ++
+Colon : ;
+Identifer : count
+Op3 : **
+Number : 3
+Colon : ;
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Identifer : text
+Equals : =
+String : "keep looping"
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : a
+Colon : ;
+Type : var
+Identifer : b
+Colon : ;
+Type : var
+Identifer : x
+Equals : =
+Number : 10
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Keyword : let
+Identifer : x
+Equals : =
+Number : 100
+Colon : ;
+Type : var
+Identifer : d
+Equals : =
+String : "PESU"
+Colon : ;
+Type : var
+Identifer : count
+Equals : =
+Number : 0
+Colon : ;
+Identifer : count
+Equals : =
+Identifer : count
+Op1 : +
+Number : 1
+Colon : ;
+Identifer : count
+ShortHand : +=
+Number : 1
+Colon : ;
+Identifer : count
+Op4 : ++
+Colon : ;
+Identifer : count
+Op3 : **
+Number : 3
+Colon : ;
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Identifer : text
+Equals : =
+String : "keep looping"
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : a
+Colon : ;
+Type : var
+Identifer : b
+Colon : ;
+Type : var
+Identifer : x
+Equals : =
+Number : 10
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Keyword : let
+Identifer : x
+Equals : =
+Number : 100
+Colon : ;
+Type : var
+Identifer : d
+Equals : =
+String : "PESU"
+Colon : ;
+Type : var
+Identifer : count
+Equals : =
+Number : 0
+Colon : ;
+Identifer : count
+Equals : =
+Identifer : count
+Op1 : +
+Number : 1
+Colon : ;
+Identifer : count
+ShortHand : +=
+Number : 1
+Colon : ;
+Identifer : count
+Op4 : ++
+Colon : ;
+Identifer : count
+Op3 : **
+Number : 3
+Colon : ;
+Type : var
+Identifer : a
+Colon : ;
+Type : var
+Identifer : b
+Colon : ;
+Type : var
+Identifer : x
+Equals : =
+Number : 10
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Keyword : let
+Identifer : x
+Equals : =
+Number : 100
+Colon : ;
+Type : var
+Identifer : d
+Equals : =
+String : "PESU"
+Colon : ;
+Type : var
+Identifer : count
+Equals : =
+Number : 0
+Colon : ;
+Identifer : count
+Equals : =
+Identifer : count
+Op1 : +
+Number : 1
+Colon : ;
+Identifer : count
+ShortHand : +=
+Number : 1
+Colon : ;
+Identifer : count
+Op4 : ++
+Colon : ;
+Identifer : count
+Op3 : **
+Number : 3
+Colon : ;
+Type : var
+Identifer : a
+Colon : ;
+Type : var
+Identifer : b
+Colon : ;
+Type : var
+Identifer : x
+Equals : =
+Number : 10
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Keyword : let
+Identifer : x
+Equals : =
+Number : 100
+Colon : ;
+Type : var
+Identifer : d
+Equals : =
+String : "PESU"
+Colon : ;
+Type : var
+Identifer : count
+Equals : =
+Number : 0
+Colon : ;
+Identifer : count
+Equals : =
+Identifer : count
+Op1 : +
+Number : 1
+Colon : ;
+Identifer : count
+ShortHand : +=
+Number : 1
+Colon : ;
+Identifer : count
+Op4 : ++
+Colon : ;
+Identifer : count
+Op3 : **
+Number : 3
+Colon : ;
+Type : var
+Identifer : a
+Colon : ;
+Type : var
+Identifer : b
+Colon : ;
+Type : var
+Identifer : x
+Equals : =
+Number : 10
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Keyword : let
+Identifer : x
+Equals : =
+Number : 100
+Colon : ;
+Type : var
+Identifer : d
+Equals : =
+String : "PESU"
+Colon : ;
+Type : var
+Identifer : count
+Equals : =
+Number : 0
+Colon : ;
+Identifer : count
+Equals : =
+Identifer : count
+Op1 : +
+Number : 1
+Colon : ;
+Identifer : count
+ShortHand : +=
+Number : 1
+Colon : ;
+Identifer : count
+Op4 : ++
+Colon : ;
+Identifer : count
+Op3 : **
+Number : 3
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Identifer : true
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : hi
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : hi
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : hi
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : hi
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Identifer : true
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : a
+Colon : ;
+Type : var
+Identifer : b
+Colon : ;
+Type : var
+Identifer : x
+Equals : =
+Number : 10
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : ===
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Keyword : let
+Identifer : x
+Equals : =
+Number : 100
+Colon : ;
+Type : var
+Identifer : d
+Equals : =
+String : "PESU"
+Colon : ;
+Type : var
+Identifer : count
+Equals : =
+Number : 0
+Colon : ;
+Identifer : count
+Equals : =
+Identifer : count
+Op1 : +
+Number : 1
+Colon : ;
+Identifer : count
+ShortHand : +=
+Number : 1
+Colon : ;
+Identifer : count
+Op4 : ++
+Colon : ;
+Identifer : count
+Op3 : **
+Number : 3
+Colon : ;
+Type : var
+Identifer : a
+Colon : ;
+Type : var
+Identifer : b
+Colon : ;
+Type : var
+Identifer : x
+Equals : =
+Number : 10
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : ab
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Keyword : let
+Identifer : x
+Equals : =
+Number : 100
+Colon : ;
+Type : var
+Identifer : d
+Equals : =
+String : "PESU"
+Colon : ;
+Type : var
+Identifer : count
+Equals : =
+Number : 0
+Colon : ;
+Identifer : count
+Equals : =
+Identifer : count
+Op1 : +
+Number : 1
+Colon : ;
+Identifer : count
+ShortHand : +=
+Number : 1
+Colon : ;
+Identifer : count
+Op4 : ++
+Colon : ;
+Identifer : count
+Op3 : **
+Number : 3
+Colon : ;
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "The number is "
+Op1 : +
+Identifer : i
+Colon : ;
+Identifer : i
+Op4 : ++
+Colon : ;
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : text
+Equals : =
+String : ""
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Keyword : do
+Open Brackets : {
+Close Brackets : }
+Keyword : while
+Open Brackets : (
+Identifer : i
+Equality : <
+Number : 5
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : hi
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Identifer : true
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Type : var
+Identifer : a
+Colon : ;
+Type : var
+Identifer : b
+Colon : ;
+Type : var
+Identifer : x
+Equals : =
+Number : 10
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : ab
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Keyword : let
+Identifer : x
+Equals : =
+Number : 100
+Colon : ;
+Type : var
+Identifer : d
+Equals : =
+String : "PESU"
+Colon : ;
+Type : var
+Identifer : count
+Equals : =
+Number : 0
+Colon : ;
+Identifer : count
+Equals : =
+Identifer : count
+Op1 : +
+Number : 1
+Colon : ;
+Identifer : count
+ShortHand : +=
+Number : 1
+Colon : ;
+Identifer : count
+Op4 : ++
+Colon : ;
+Identifer : count
+Op3 : **
+Number : 3
+Colon : ;
+Type : var
+Identifer : a
+Colon : ;
+Type : var
+Identifer : b
+Colon : ;
+Type : var
+Identifer : x
+Equals : =
+Number : 10
+Colon : ;
+Keyword : if
+Open Brackets : (
+Identifer : a
+Logical Operators : &&
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Type : var
+Identifer : a
+Equals : =
+Number : 10
+Colon : ;
+Identifer : a
+ShortHand : +=
+Number : 10
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : a
+Equality : <=
+Identifer : b
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+Identifer : x
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Keyword : if
+Open Brackets : (
+Identifer : ab
+Close Brackets : )
+Open Brackets : {
+Print : console.log
+Open Brackets : (
+String : "Type and Value are equal"
+Close Brackets : )
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Colon : ;
+Keyword : for
+Open Brackets : (
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Identifer : i
+Equality : <
+Number : 10
+Colon : ;
+Identifer : i
+Op4 : ++
+Close Brackets : )
+Open Brackets : {
+Identifer : text
+ShortHand : +=
+String : "cars"
+Op1 : +
+String : "<br>"
+Colon : ;
+Close Brackets : }
+Type : var
+Identifer : i
+Equals : =
+Number : 0
+Colon : ;
+Type : var
+Identifer : j
+Equals : =
+Number : 10
+Colon : ;
+Print : console.log
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : console.log
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+String : "Hello"
+Close Brackets : )
+Colon : ;
+Print : document.write
+Open Brackets : (
+Identifer : i
+Close Brackets : )
+Colon : ;
+Keyword : let
+Identifer : x
+Equals : =
+Number : 100
+Colon : ;
+Type : var
+Identifer : d
+Equals : =
+String : "PESU"
+Colon : ;
+Type : var
+Identifer : count
+Equals : =
+Number : 0
+Colon : ;
+Identifer : count
+Equals : =
+Identifer : count
+Op1 : +
+Number : 1
+Colon : ;
+Identifer : count
+ShortHand : +=
+Number : 1
+Colon : ;
+Identifer : count
+Op4 : ++
+Colon : ;
+Identifer : count
+Op3 : **
+Number : 3
+Colon : ;
+Identifer : a
+Equals : =
+Number : 0
+Colon : ;
+Identifer : b
+Equals : =
+Number : 0
+Colon : ;
+Identifer : x
+Equals : =
+Number : 10
